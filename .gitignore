@@ -2,7 +2,6 @@
 __pycache__
 .pytest_cache
 *.tmp
-.coveragerc
 .coverage
 htmlcov
 uv.lock
