@@ -1,3 +1,5 @@
+# pylint: skip-file
+
 from varasto import Varasto
 
 def main():

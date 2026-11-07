@@ -20,7 +20,7 @@ disable=raw-checker-failed,
 [FORMAT]
 
 max-line-length=80
-max-module-lines=100
+max-module-lines=40
 max-args=5
 indent-string='    '
 
